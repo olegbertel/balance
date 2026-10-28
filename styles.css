@@ -1,6 +1,5 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    font-size: 20px;
     color: #000;
     max-width: 1000px;
     margin: 0 auto;
@@ -13,9 +12,9 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);*/
 }
-h1 {line-height: 40px; font-size: 32px}
-h2 {margin-top: 40px; margin-bottom: 16px; line-height: 32px; font-size: 24px}
-p {margin-top: 16px; margin-bottom: 16px; line-height: 32px;}
+h1 {line-height: 32px; font-size: 24px}
+h2 {margin-top: 32px; margin-bottom: 12px; line-height: 28px; font-size: 20px}
+p {margin-top: 0px; margin-bottom: 12px; line-height: 24px; font-size: 18px;}
 .language-switcher { text-align: right; margin-bottom: 20px; font-size: 14px;}
 .language-switcher a {margin-left: 16px; color: #0076ff; text-decoration: none;}
     
